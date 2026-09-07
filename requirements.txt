@@ -1,0 +1,9 @@
+python-dotenv
+deepagents
+python-pptx
+langchain-groq
+langchain-community
+langchain-core
+subagents 
+os
+requests

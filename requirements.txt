@@ -4,6 +4,5 @@ python-pptx
 langchain-groq
 langchain-community
 langchain-core
-subagents 
-os
 requests
+langsmith

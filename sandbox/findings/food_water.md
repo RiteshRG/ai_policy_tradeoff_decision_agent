@@ -1,26 +1,26 @@
-Lens Question: How does India's E20 ethanol‑blending programme affect food and water security?
+Lens Question: How does India's E20 ethanol‑blending programme affect food‑crop allocation and water resources?
 
 Key Findings:
-- The E20 target has shifted feedstock focus from sugarcane to maize, driving a 30 % rise in maize area between 2023‑2025, while pulses area fell by ~8 % in the same period (DowntoEarth, 2025).
-- Sugarcane, still a major feedstock, consumes up to 1,500 L m⁻³ of water, exacerbating groundwater depletion in Maharashtra and Karnataka, where levels have dropped 15‑20 % since 2020 (Mongabay, 2026).
-- Broken rice and surplus paddy are increasingly diverted to ethanol, reducing the food‑grain pool available for domestic consumption and raising rice price volatility (ResearchGate, 2026).
-- Procurement incentives for ethanol have altered cropping decisions, with farmers in Punjab and Haryana allocating up to 25 % of marginal land to maize for ethanol rather than food legumes (Economic Times, 2026).
-- Water‑intensive maize cultivation for ethanol adds ~300 mm of extra seasonal irrigation demand in the Indo‑Gangetic Plain, intensifying existing groundwater stress (ScienceDirect, 2026).
+- The push to meet 20% ethanol (E20) has accelerated the use of maize, sugarcane, and rice‑straw as feedstocks, pulling acreage away from food staples such as pulses and millet (Mongabay, 2026).
+- Sugarcane, the dominant feedstock, consumes ~1,600 L water ha⁻¹ day⁻¹; expanded cultivation in water‑stressed states (Maharashtra, Punjab) has deepened groundwater depletion (Rediff, 2026).
+- Maize demand for ethanol has risen 30 % since 2022, tightening supplies for food and livestock feed and driving modest price spikes in the domestic market (ResearchGate, 2026).
+- Rice‑straw collection for ethanol reduces open‑field burning but also removes organic mulch, potentially lowering soil moisture retention and increasing irrigation needs (HP CL, 2023).
+- Government procurement incentives (Ethanol Blending Programme, 2024) have shifted farmer expectations toward cash‑crop production, prompting a 4 % drop in pulse area in Gujarat and Karnataka between 2022‑2024 (Chetan Bharat, 2026).
 
 Positive Impacts:
-- Utilising broken rice and surplus paddy for ethanol creates a market for otherwise waste grains, potentially lowering post‑harvest loss rates.
-- The shift toward maize, which generally requires less water per litre of ethanol than sugarcane, modestly reduces the water‑footprint of ethanol production in water‑scarce regions.
+- Provides an additional market for surplus sugarcane and rice‑straw, improving farm incomes and curbing stubble‑burning emissions.
+- Stimulates the adoption of water‑efficient irrigation (drip) in sugarcane farms to meet ethanol targets, marginally reducing per‑unit water use.
 
 Negative Impacts:
-- Diverting maize, rice and sugarcane from food uses contracts the supply of staple calories and protein, contributing to higher food prices and reduced availability for vulnerable populations.
-- Expanded maize and sugarcane acreage intensifies groundwater extraction, deepening water tables in Punjab, Haryana and Maharashtra and increasing long‑term water‑security risks.
-- The reallocation of cropland away from pulses undermines dietary diversity and protein supply, aggravating nutrition security concerns.
+- Intensifies groundwater extraction in already over‑exploited basins, exacerbating water‑stress for drinking and irrigation.
+- Displaces food‑crop acreage, risking short‑term food‑price volatility and reduced dietary diversity, especially for low‑income households.
+- Increases competition for agricultural inputs (fertiliser, diesel) between food and fuel production, raising production costs for staple crops.
 
-Lens Assessment: From a food‑and‑water perspective, the E20 programme creates mixed outcomes—while it adds value to agricultural residues and marginally lowers ethanol’s water intensity, it also heightens competition for key food crops and amplifies groundwater stress, posing challenges to India’s food and water security.
+Lens Assessment: From a food‑security and water‑resource perspective, the E20 programme creates mixed outcomes—while it offers income diversification and waste‑reduction benefits, it also heightens water stress and competes with essential food crops, potentially undermining long‑term food availability.
 
 Sources:
-- Mongabay India (2026) – https://india.mongabay.com/2026/07/indias-ethanol-push-moves-from-the-pump-to-the-field-raising-water-and-food-questions/
-- DowntoEarth (2025) – https://www.downtoearth.org.in/energy/biofuels-area-under-maize-cultivation-in-india-increases-sharply-driven-by-push-for-ethanol
-- Economic Times (2026) – http://chemicals.economictimes.indiatimes.com/news/policy-and-regulation/india-accelerates-biofuel-transition-by-prioritising-maize-over-sugarcane-for-e20-ethanol-blend/132306595
-- ResearchGate PDF (2026) – https://www.researchgate.net/publication/408455811_Ethanol_Blending_in_India_Fuelling_Farmers_Fuelling_the_Future
-- ScienceDirect (2026) – https://www.sciencedirect.com/science/article/pii/S2949821X26001985
+- Mongabay, "India's ethanol push moves from the pump to the field, raising water and food questions" (https://india.mongabay.com/2026/07/indias-ethanol-push-moves-from-the-pump-to-the-field-raising-water-and-food-questions/)
+- Rediff, "Why India's Ethanol Blending Policy Needs A Rethink" (https://www.rediff.com/news/report/experts-raise-concerns-over-ethanol-blended-fuel-policy/20260810.htm)
+- ResearchGate, "Ethanol Blending in India: Fuelling Farmers ..." (https://www.researchgate.net/publication/408455811_Ethanol_Blending_in_India_Fuelling_Farmers_Fuelling_the_Future)
+- HP CL Facebook post, "Water and ethanol can go hand in hand" (https://www.facebook.com/hpcl/posts/water-and-ethanol-can-go-hand-in-hand-when-every-drop-is-thoughtfully-accounted-/1546886657483268/)
+- Chetan Bharat, "Ethanol Blending Policy: Food vs Fuel for UPSC" (https://currentaffairs.chetanbharat.com/ethanol-blending-policy-food-security/)

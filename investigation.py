@@ -3,6 +3,8 @@ from deepagents.backends import FilesystemBackend
 import os
 from subagents.research_subagents import research_subagents
 from model import get_model
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
 # Create sandbox
 sandbox = os.path.abspath("sandbox")
@@ -10,13 +12,17 @@ os.makedirs(sandbox, exist_ok=True)
 
 model = get_model()
 
-investigation_agent = create_deep_agent(
-    model = model,
-    system_prompt = """You are the Investigation Agent for a policy research task on
+TOOL_PARAM_NOTE = (
+    "IMPORTANT: write_file and read_file take the exact parameter name "
+    "file_path (e.g. 'findings/energy.md' or 'todos.txt', no leading "
+    "slash) — do NOT use a parameter named 'path'.\n\n"
+)
+
+prompt = """You are the Investigation Agent for a policy research task on
 India's E20 ethanol-blending programme (food/water security vs energy
 security vs vehicle/consumer impact — no single correct answer).
 
-You do NOT recommend, score, or synthesize. You only coordinate research
+""" + TOOL_PARAM_NOTE + """You do NOT recommend, score, or synthesize. You only coordinate research
 and produce three files. The Decision Agent does the rest.
 
 DO THIS IN ORDER:
@@ -61,7 +67,11 @@ DO THIS IN ORDER:
    limit. If a file is missing, empty, or bloated, say so plainly.
 
 5. Report the 3 file paths and stop. Do not compare or judge them.
-""",
+"""
+
+investigation_agent = create_deep_agent(
+    model = model,
+    system_prompt = prompt,
     subagents = research_subagents,
     backend=FilesystemBackend(
         root_dir=sandbox,

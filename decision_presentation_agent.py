@@ -3,6 +3,8 @@ from deepagents.backends import FilesystemBackend
 import os
 from subagents.decision_presentation_subagents import decision_presentation_subagents
 from model import get_model
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
 model = get_model()
 

@@ -1,3 +1,4 @@
+Research Plan:
 - food_water_researcher -> findings/food_water.md
 - energy_researcher -> findings/energy.md
-- vehicle_researcher -> findings/vehicle.md
+- vehicle_researcher -> findings/vehicle_consumer.md
